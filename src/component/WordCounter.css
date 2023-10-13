@@ -1,0 +1,26 @@
+/* Styling for the WordCounter container */
+div {
+    margin-top: 20px;
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(188, 244, 244);
+  }
+  
+  /* Styling for the textarea */
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #e41212;
+    border-radius: 5px;
+  }
+  
+  /* Styling for the word count display */
+  p {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+  }
+  
